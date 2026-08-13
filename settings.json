@@ -1,13 +1,13 @@
 {
   "name": "TechnoGamerz",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Itslavasurvival.aternos.me",
-    "port": 35438,
+    "ip": "diamondcore.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "login2026"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
